@@ -11,5 +11,3 @@
 
 
 https://user-images.githubusercontent.com/111461198/187036417-d25a2138-2f46-4aa5-9d2e-56c32fb138a4.mp4
-
-https://hwollin.github.io/2022/08/19/cas/cas.mp4
