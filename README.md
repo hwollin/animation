@@ -7,3 +7,8 @@
 > 还有一个是[社区版](https://github.com/ManimCommunity/manim)。两个版本请自行选择，各有优缺点。
 
 目的用动画的形式展示程序的执行原理
+
+
+
+https://user-images.githubusercontent.com/111461198/187032504-63ee31ae-7553-4c0d-858b-992b680fdfe2.mp4
+
