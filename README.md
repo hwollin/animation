@@ -8,4 +8,4 @@
 
 目的用动画的形式展示程序的执行原理
 
-![](introduce/imgs/Introduce.gif)
+![](introduce/imgs/introduce.png)
