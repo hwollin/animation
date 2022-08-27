@@ -8,7 +8,4 @@
 
 目的用动画的形式展示程序的执行原理
 
-<video width="100%" controls>
-  <source src="introduce/video/Introduce.mp4" type="video/mp4"/>
-</video>
-
+![](introduce/imgs/introduce.gif)
